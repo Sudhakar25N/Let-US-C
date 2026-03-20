@@ -31,9 +31,3 @@ This repository contains:
 
 - C Programming Language
 - GCC Compiler
-
-----------
-
-## 📌 Author
-
-**Sudhakar**
